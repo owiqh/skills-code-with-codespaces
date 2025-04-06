@@ -16,6 +16,7 @@
         "codespace.md"
       ]
     }
-  }
+  },
+  "postCreateCommand": "echo 'Welcome to your Codespace!' >> codespace.md"
 
 }
